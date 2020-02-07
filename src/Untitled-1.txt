@@ -1,0 +1,21 @@
+var fibo = [0,1,1,2,3,5]; // number
+var city = ["Chennai","Madurai","Theni"];
+
+// Array of Object
+var cityList = [{
+    city:"Chennai",
+    class:"Metro",
+    population: 20000000
+},
+{
+    city:"Madurai",
+    class:"Non-Metro",
+    population: 800000
+},
+{
+    city:"Theni",
+    class:"NA",
+    population: 200000
+}
+];
+
